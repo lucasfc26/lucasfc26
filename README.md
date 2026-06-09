@@ -321,9 +321,9 @@ Landing page developed with a modern interface, responsive design, and professio
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasfc26&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true"/>
+<img height="180em" src="https://gitstats-dun.vercel.app/api?username=lucasfc26&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfc26&layout=compact&theme=github_dark&hide_border=false"/>
+<img height="180em" src="https://gitstats-dun.vercel.app/api/top-langs/?username=lucasfc26&layout=compact&theme=github_dark&hide_border=false"/>
 
 </div>
 
